@@ -109,26 +109,11 @@ The key performance metrics of the developed KWS system is listed below. More de
 
 | Time-lapsed KWS from Continuous Speech |
 | :------------------------------------: |
-|    ![SKWS](./docs/results/demo.gif)    |
+|    ![SKWS](./docs/results/demo.png)    |
 
 A high quality non time-lapsed video of the above is available [here](./docs/results/demo.mp4). 
 
 
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Vineeth S - vs96codes@gmail.com
-
-Project Link: [https://github.com/vineeths96/Spoken-Keyword-Spotting](https://github.com/vineeths96/Spoken-Keyword-Spotting)
 
 
 
