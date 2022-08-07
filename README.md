@@ -45,8 +45,8 @@ This project was built with
 Clone the repository into a local machine and enter the [src](src) directory using
 
 ```shell
-git clone https://github.com/vineeths96/Spoken-Keyword-Spotting
-cd Spoken-Keyword-Spotting/src
+git clone https://github.com/kabrate/KWS
+cd KWS/src
 ```
 
 ### Prerequisites
@@ -111,7 +111,6 @@ The key performance metrics of the developed KWS system is listed below. More de
 | :------------------------------------: |
 |    ![SKWS](./docs/results/demo.png)    |
 
-A high quality non time-lapsed video of the above is available [here](./docs/results/demo.mp4). 
 
 
 
