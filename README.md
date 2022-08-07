@@ -4,16 +4,12 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/vineeths96/Spoken-Keyword-Spotting">
+  <a href="https://github.com/kabrate/KWS">
     <img src="docs/results/logo.jpg" alt="Logo" width="200" height="150">
   </a>
   <h3 align="center">Spoken Keyword Spotting</h3>
   <p align="center">
     Small footprint Spoken Keyword Spotting (KWS)
-    <br />
-    <a href=https://github.com/vineeths96/Spoken-Keyword-Spotting><strong>Explore the repository»</strong></a>
-    <br />
-    <a href=https://github.com/vineeths96/Spoken-Keyword-Spotting/blob/master/docs/report.pdf>View Report</a>
   </p>
 
 </p>
